@@ -1,4 +1,5 @@
 COMP-3220
+Faraan Rashid
 Assignment 1
 
 GitHub link: https://github.com/WWFYOcelot/a1_3220/
